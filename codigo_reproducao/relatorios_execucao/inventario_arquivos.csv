@@ -1,0 +1,27 @@
+﻿arquivo,status,colunas_amostra,colunas,linhas_amostra,abas
+docs\AUDITORIA_SICONFI_MUNICIPIOS_2015_2024.csv,lido,20.0,ano | municipio | codigo_ibge | arquivo_receita | arquivo_despesa | populacao_finbra_receita | populacao_finbra_despesa | populacao_igual_entre_arquivos | receita_bruta | deducoes_identificadas | receita_bruta_menos_deducoes_identificadas | despesa_empenhada | linhas_receita_total_encontradas_no_recorte | linhas_deducao_encontradas_no_recorte | linhas_despesa_total_encontradas_no_recorte | checagem_interna_csv | portal_oficial_ultima_retificacao | fonte_oficial_consulta | api_oficial_documentacao | observacao,10.0,
+docs\AUTORES_80.csv,lido,2.0,autor | artigos_na_amostra,10.0,
+docs\CRUZAMENTO_REFERENCIAL_vs_CORPUS_SCOPUS_80.csv,lido,6.0,n_referencial | titulo_referencial | doi_referencial | correspondencia_doi_exata_recalculada | melhor_titulo_scopus_recalculado | similaridade_titulo_recalculada_pct,10.0,
+docs\DISTRIBUICAO_TEMAS_80.csv,lido,2.0,tema | artigos,5.0,
+docs\MATRIZ_AUDITORIA_FINAL_80_REFERENCIAS.csv,lido,28.0,id_original | autores | ano | titulo | periodico | volume_numero_paginas | doi | url | tipo_documento | pertinencia | metodo_reportado | achado_reportado_na_matriz | url_evidencia | fonte_evidencia_tipo | status_metadados_auditoria | status_metadados_matriz_original | status_texto_integral | como_discutido_no_artigo | decisao_inclusao_substituicao | nota_correcao | data_auditoria | doi_normalizado | doi_no_corpus_bibliometrico | acao_pendente | doi_norm_recalc | match_doi_exact_recalculado | melhor_titulo_scopus_recalculado | similaridade_titulo_recalculada_pct,10.0,
+docs\PALAVRAS_CHAVE_80.csv,lido,2.0,palavra_chave | frequencia,10.0,
+docs\PERIODICOS_80.csv,lido,2.0,periodico | documentos,10.0,
+output\AUTORES_RELEVANTES_RESULTADO_R.csv,lido,2.0,Autor | Artigos_na_amostra,10.0,
+output\COOCORRENCIA_PALAVRAS_CHAVE_80.csv,lido,3.0,termo_1 | termo_2 | coocorrencias,10.0,
+output\PRODUCAO_ANUAL_80.csv,lido,2.0,ano | documentos,10.0,
+data\processed\BASE_MUNICIPAL_ANALITICA_REAL_2024.csv,lido,29.0,ano | municipio | codigo_ibge | populacao_finbra_receita | populacao_finbra_despesa | receita_bruta | deducoes_total | receita_liquida_calculada | despesa_empenhada | receita_arquivo | despesa_arquivo | status | populacao_divergente_entre_arquivos | receita_liquida_per_capita | despesa_empenhada_per_capita | populacao | fator_para_reais_2024 | receita_liquida_real_2024 | despesa_real_2024 | receita_liquida_real_per_capita | despesa_real_per_capita | populacao_harmonizada_finbra | fonte_populacao_harmonizada | receita_bruta_menos_deducoes_identificadas | receita_per_capita_nominal_harmonizada | despesa_per_capita_nominal_harmonizada | receita_real_per_capita_harmonizada_2024 | despesa_real_per_capita_harmonizada_2024 | status_validacao,10.0,
+data\processed\BASE_MUNICIPAL_CORRIGIDA_P2_2015_2024.csv,lido,17.0,ano | municipio | codigo_ibge | populacao_finbra_harmonizada | receita_bruta | deducoes_identificadas | receita_bruta_menos_deducoes_identificadas | despesa_empenhada | saldo_despesa_menos_receita_derivada | receita_derivada_per_capita_nominal | despesa_empenhada_per_capita_nominal | fator_ipca_para_reais_2024 | receita_derivada_real_2024 | despesa_real_2024 | receita_derivada_real_per_capita_2024 | despesa_real_per_capita_2024 | status,10.0,
+data\processed\FINBRA_REGISTROS_MUNICIPIOS_2015_2024.csv,lido,10.0,year | municipio | code | population | type | col | account | ident | value | file,10.0,
+data\processed\TABELAS_E_BASE_P2.xlsx,lido,,,,Leia-me | Base municipal 2015-24 | Base analítica real 2024 | Auditoria SICONFI | Produção anual | Periódicos | Autores | Palavras-chave | Matriz 80 referências | Cruzamento Scopus | Coocorrência keywords | Registros FINBRA
+data\original\bibliometria\BASE_80_COM_METADADOS_SCOPUS.csv,lido,15.0,n | tema | Authors | Year | Title | Source title | DOI | Cited by | Document Type | Abstract | Author Keywords | Index Keywords | Affiliations | References | EID,10.0,
+data\original\bibliometria\SCOPUS_80_ARTIGOS_FILTRADOS.csv,lido,45.0,Authors | Author full names | Author(s) ID | Title | Year | Source title | Volume | Issue | Art. No. | Page start | Page end | Cited by | DOI | Link | Affiliations | Authors with affiliations | Abstract | Author Keywords | Index Keywords | Molecular Sequence Numbers | Chemicals/CAS | Tradenames | Manufacturers | Funding Details | Funding Texts | References | Correspondence Address | Editors | Publisher | Sponsors | Conference name | Conference date | Conference location | Conference code | ISSN | ISBN | CODEN | PubMed ID | Language of Original Document | Abbreviated Source Title | Document Type | Publication Stage | Open Access | Source | EID,10.0,
+data\original\finbra\2020_DESPESAS_POR_FUNCAO.csv,"ERRO: ParserError: Error tokenizing data. C error: Expected 1 fields in line 5, saw 2
+",,,,
+data\original\finbra\2020_RECEITAS_ORCAMENTARIAS.csv,"ERRO: ParserError: Error tokenizing data. C error: Expected 1 fields in line 5, saw 2
+",,,,
+data\original\finbra\2021_DESPESAS_POR_FUNCAO.csv,"ERRO: ParserError: Error tokenizing data. C error: Expected 1 fields in line 5, saw 2
+",,,,
+data\original\finbra\2022_DESPESAS_POR_FUNCAO.csv,"ERRO: ParserError: Error tokenizing data. C error: Expected 1 fields in line 5, saw 2
+",,,,
+data\original\finbra\2024_DESPESAS_POR_FUNCAO.csv,"ERRO: ParserError: Error tokenizing data. C error: Expected 1 fields in line 5, saw 2
+",,,,

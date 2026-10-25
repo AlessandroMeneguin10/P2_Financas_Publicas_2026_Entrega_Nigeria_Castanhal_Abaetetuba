@@ -1,0 +1,64 @@
+{
+  "n_lista_selecionada": 80,
+  "n_com_doi": 80,
+  "n_localizados_na_exportacao_scopus": 80,
+  "n_nao_localizados": 0,
+  "anos_min": 1978,
+  "anos_max": 2024,
+  "periodicos_distintos": 47,
+  "autores_distintos_aprox": 139,
+  "media_citacoes_exportacao": 64.24,
+  "mediana_citacoes_exportacao": 48.0,
+  "resumos_presentes": 80,
+  "palavras_chave_presentes": 43,
+  "referencias_citadas_presentes": 79,
+  "temas_fonte": [
+    {
+      "tema": "FLY",
+      "artigos": 21
+    },
+    {
+      "tema": "LAT/DEV",
+      "artigos": 18
+    },
+    {
+      "tema": "BRA",
+      "artigos": 17
+    },
+    {
+      "tema": "ILL",
+      "artigos": 13
+    },
+    {
+      "tema": "POL/EFE",
+      "artigos": 11
+    }
+  ],
+  "aviso": "Análise bibliométrica descritiva em Python sobre os 80 selecionados; não é execução do pacote R Bibliometrix.",
+  "atualizacao_2026_10_25": {
+    "municipal_rows_internal_checked": 20,
+    "population_equal_between_revenue_and_expense_exports": 20,
+    "official_last_rectification_verified": false,
+    "population_harmonization": "FINBRA population field from revenue export, same as expense export for 20/20 pairs",
+    "scopus_corpus_equals_80_reference_matrix": false,
+    "full_text_reading_of_80_confirmed": false,
+    "despesa_real_pc_summary": [
+      {
+        "municipio": "Abaetetuba",
+        "pop_2015": 148873,
+        "pop_2024": 158042,
+        "despesa_real_pc_2015": 2307.7378420248992,
+        "despesa_real_pc_2024": 3727.1139596436387,
+        "variacao_pct": 61.50508483985006
+      },
+      {
+        "municipio": "Castanhal",
+        "pop_2015": 186895,
+        "pop_2024": 200003,
+        "despesa_real_pc_2015": 2621.331269541337,
+        "despesa_real_pc_2024": 3753.73399934001,
+        "variacao_pct": 43.19952777265017
+      }
+    ]
+  }
+}

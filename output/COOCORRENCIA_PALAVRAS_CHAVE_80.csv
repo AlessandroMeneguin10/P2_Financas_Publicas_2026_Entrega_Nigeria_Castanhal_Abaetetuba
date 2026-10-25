@@ -1,0 +1,351 @@
+﻿termo_1,termo_2,coocorrencias
+fiscal federalism,flypaper effect,3
+fiscal federalism,intergovernmental transfers,3
+flypaper effect,intergovernmental transfers,3
+fiscal illusion,flypaper effect,2
+flypaper effect,uncertainty,2
+efficiency,flypaper effect,2
+fiscal federalism,grants,2
+fiscal illusion,leviathan,1
+fiscal illusion,uncertainty,1
+flypaper effect,leviathan,1
+leviathan,uncertainty,1
+capitalization,fiscal equalization,1
+capitalization,flypaper effect,1
+capitalization,rent seeking,1
+fiscal equalization,flypaper effect,1
+fiscal equalization,rent seeking,1
+flypaper effect,rent seeking,1
+d72,d78,1
+d72,fiscal decentralization,1
+d72,fiscal illusion,1
+d72,h7,1
+d78,fiscal decentralization,1
+d78,fiscal illusion,1
+d78,h7,1
+fiscal decentralization,fiscal illusion,1
+fiscal decentralization,h7,1
+fiscal illusion,h7,1
+flypaper effect,health care,1
+flypaper effect,italy,1
+flypaper effect,soft-budget constraint,1
+health care,italy,1
+health care,soft-budget constraint,1
+italy,soft-budget constraint,1
+fiscal federalism,intergovernmental grants,1
+fiscal federalism,marginal cost of public funds,1
+flypaper effect,intergovernmental grants,1
+flypaper effect,marginal cost of public funds,1
+intergovernmental grants,intergovernmental transfers,1
+intergovernmental grants,marginal cost of public funds,1
+intergovernmental transfers,marginal cost of public funds,1
+flypaper effect,incomplete markets,1
+flypaper effect,insurance,1
+flypaper effect,portfolio theory,1
+flypaper effect,precautionary saving,1
+incomplete markets,insurance,1
+incomplete markets,portfolio theory,1
+incomplete markets,precautionary saving,1
+incomplete markets,uncertainty,1
+insurance,portfolio theory,1
+insurance,precautionary saving,1
+insurance,uncertainty,1
+portfolio theory,precautionary saving,1
+portfolio theory,uncertainty,1
+precautionary saving,uncertainty,1
+accountability,fiscal federalism,1
+accountability,flypaper effect,1
+accountability,political competition,1
+fiscal federalism,political competition,1
+flypaper effect,political competition,1
+debt illusion,fiscal illusion,1
+debt illusion,flypaper effect,1
+debt illusion,renter illusion,1
+debt illusion,revenue-complexity,1
+debt illusion,revenue-elasticity,1
+fiscal illusion,renter illusion,1
+fiscal illusion,revenue-complexity,1
+fiscal illusion,revenue-elasticity,1
+flypaper effect,renter illusion,1
+flypaper effect,revenue-complexity,1
+flypaper effect,revenue-elasticity,1
+renter illusion,revenue-complexity,1
+renter illusion,revenue-elasticity,1
+revenue-complexity,revenue-elasticity,1
+european countries,financial illusion,1
+european countries,fiscal illusion,1
+european countries,mimic model,1
+financial illusion,fiscal illusion,1
+financial illusion,mimic model,1
+fiscal illusion,mimic model,1
+attitudes,beliefs,1
+attitudes,fiscal illusion,1
+attitudes,interest groups,1
+attitudes,mimicking,1
+attitudes,tax choice,1
+beliefs,fiscal illusion,1
+beliefs,interest groups,1
+beliefs,mimicking,1
+beliefs,tax choice,1
+fiscal illusion,interest groups,1
+fiscal illusion,mimicking,1
+fiscal illusion,tax choice,1
+interest groups,mimicking,1
+interest groups,tax choice,1
+mimicking,tax choice,1
+budget deficits,elections,1
+budget deficits,fiscal conservatism,1
+budget deficits,political cycles,1
+elections,fiscal conservatism,1
+elections,political cycles,1
+fiscal conservatism,political cycles,1
+efficiency,tax collection,1
+flypaper effect,tax collection,1
+brazilian state governments,federalism,1
+brazilian state governments,intergovernmental transfers,1
+brazilian state governments,political economy,1
+federalism,intergovernmental transfers,1
+federalism,political economy,1
+intergovernmental transfers,political economy,1
+educational finance,efficiency,1
+educational finance,expenditures,1
+educational finance,flypaper effect,1
+educational finance,intergovernmental transfers,1
+efficiency,expenditures,1
+efficiency,intergovernmental transfers,1
+expenditures,flypaper effect,1
+expenditures,intergovernmental transfers,1
+fiscal illusion,intergovernmental transfers,1
+fiscal illusion,local public spending,1
+fiscal illusion,tax structure,1
+intergovernmental transfers,local public spending,1
+intergovernmental transfers,tax structure,1
+local public spending,tax structure,1
+fpm,municipalities,1
+fpm,rdd,1
+municipalities,rdd,1
+elections,intergovernmental transfers,1
+elections,political alignment,1
+intergovernmental transfers,political alignment,1
+appropriation,bureaucracy,1
+appropriation,intergovernmental grants,1
+appropriation,public-private wage differential,1
+bureaucracy,intergovernmental grants,1
+bureaucracy,public-private wage differential,1
+intergovernmental grants,public-private wage differential,1
+dispersion on education spending,fiscal decentralization,1
+dispersion on education spending,grants,1
+dispersion on education spending,local public goods,1
+fiscal decentralization,grants,1
+fiscal decentralization,local public goods,1
+grants,local public goods,1
+dynamic panel,fiscal illusion,1
+dynamic panel,flypaper effects,1
+dynamic panel,public expenditures,1
+dynamic panel,wagner’s law,1
+fiscal illusion,flypaper effects,1
+fiscal illusion,public expenditures,1
+fiscal illusion,wagner’s law,1
+flypaper effects,public expenditures,1
+flypaper effects,wagner’s law,1
+public expenditures,wagner’s law,1
+education,fundeb,1
+education,intergovernmental transfers,1
+fundeb,intergovernmental transfers,1
+human capital,intergovernmental grants,1
+human capital,regression discontinuity,1
+human capital,test scores,1
+intergovernmental grants,regression discontinuity,1
+intergovernmental grants,test scores,1
+regression discontinuity,test scores,1
+fiscal federalism,fiscal spillover,1
+fiscal federalism,program evaluation,1
+fiscal spillover,flypaper effect,1
+fiscal spillover,program evaluation,1
+flypaper effect,program evaluation,1
+grants,intergovernmental relations,1
+grants,political economy,1
+grants,portugal,1
+intergovernmental relations,political economy,1
+intergovernmental relations,portugal,1
+political economy,portugal,1
+agent-based model,fiscal federalism,1
+agent-based model,policy priorities,1
+agent-based model,sdgs,1
+agent-based model,state finances,1
+agent-based model,subnational development,1
+agent-based model,sustainability,1
+fiscal federalism,policy priorities,1
+fiscal federalism,sdgs,1
+fiscal federalism,state finances,1
+fiscal federalism,subnational development,1
+fiscal federalism,sustainability,1
+policy priorities,sdgs,1
+policy priorities,state finances,1
+policy priorities,subnational development,1
+policy priorities,sustainability,1
+sdgs,state finances,1
+sdgs,subnational development,1
+sdgs,sustainability,1
+state finances,subnational development,1
+state finances,sustainability,1
+subnational development,sustainability,1
+ecuador,elections,1
+ecuador,fiscal decentralization,1
+ecuador,inter-government transfers,1
+ecuador,oil revenues,1
+elections,fiscal decentralization,1
+elections,inter-government transfers,1
+elections,oil revenues,1
+fiscal decentralization,inter-government transfers,1
+fiscal decentralization,oil revenues,1
+inter-government transfers,oil revenues,1
+distributive politics,electoral competition,1
+distributive politics,intergovernmental transfers,1
+distributive politics,latin america,1
+distributive politics,local governments,1
+distributive politics,political budget cycles,1
+electoral competition,intergovernmental transfers,1
+electoral competition,latin america,1
+electoral competition,local governments,1
+electoral competition,political budget cycles,1
+intergovernmental transfers,latin america,1
+intergovernmental transfers,local governments,1
+intergovernmental transfers,political budget cycles,1
+latin america,local governments,1
+latin america,political budget cycles,1
+local governments,political budget cycles,1
+expenditure,flypaper effect,1
+expenditure,honduras,1
+expenditure,investment,1
+expenditure,municipal government,1
+expenditure,tax,1
+flypaper effect,honduras,1
+flypaper effect,investment,1
+flypaper effect,municipal government,1
+flypaper effect,tax,1
+honduras,investment,1
+honduras,municipal government,1
+honduras,tax,1
+investment,municipal government,1
+investment,tax,1
+municipal government,tax,1
+fiscal decentralization,flypaper effect,1
+fiscal decentralization,intergovernmental transfers,1
+equalization,fiscal federalism,1
+equalization,fiscal imbalance,1
+equalization,grants,1
+equalization,intergovernmental,1
+fiscal federalism,fiscal imbalance,1
+fiscal federalism,intergovernmental,1
+fiscal imbalance,grants,1
+fiscal imbalance,intergovernmental,1
+grants,intergovernmental,1
+africa,decentralization,1
+africa,ghana,1
+africa,intergovernmental transfers,1
+africa,internally generated revenues,1
+africa,local public finance,1
+decentralization,ghana,1
+decentralization,intergovernmental transfers,1
+decentralization,internally generated revenues,1
+decentralization,local public finance,1
+ghana,intergovernmental transfers,1
+ghana,internally generated revenues,1
+ghana,local public finance,1
+intergovernmental transfers,internally generated revenues,1
+intergovernmental transfers,local public finance,1
+internally generated revenues,local public finance,1
+incentives,indonesia,1
+incentives,intergovernmental fiscal transfers,1
+incentives,local public finance,1
+indonesia,intergovernmental fiscal transfers,1
+indonesia,local public finance,1
+intergovernmental fiscal transfers,local public finance,1
+fiscal capacity,intergovernmental grants,1
+fiscal capacity,sub-saharan africa,1
+fiscal capacity,tanzania,1
+fiscal capacity,taxation,1
+intergovernmental grants,sub-saharan africa,1
+intergovernmental grants,tanzania,1
+intergovernmental grants,taxation,1
+sub-saharan africa,tanzania,1
+sub-saharan africa,taxation,1
+tanzania,taxation,1
+county-level jurisdictions,fiscal disparities,1
+county-level jurisdictions,intergovernmental fiscal transfers,1
+county-level jurisdictions,local tax system,1
+county-level jurisdictions,tax-sharing system,1
+fiscal disparities,intergovernmental fiscal transfers,1
+fiscal disparities,local tax system,1
+fiscal disparities,tax-sharing system,1
+intergovernmental fiscal transfers,local tax system,1
+intergovernmental fiscal transfers,tax-sharing system,1
+local tax system,tax-sharing system,1
+county governments,fiscal transfers,1
+county governments,intergovernmental relations,1
+county governments,stimulation effect,1
+county governments,substitution effect,1
+fiscal transfers,intergovernmental relations,1
+fiscal transfers,stimulation effect,1
+fiscal transfers,substitution effect,1
+intergovernmental relations,stimulation effect,1
+intergovernmental relations,substitution effect,1
+stimulation effect,substitution effect,1
+econometric,fiscal decentralisation,1
+econometric,gmm,1
+econometric,infrastructure,1
+econometric,regional growth,1
+fiscal decentralisation,gmm,1
+fiscal decentralisation,infrastructure,1
+fiscal decentralisation,regional growth,1
+gmm,infrastructure,1
+gmm,regional growth,1
+infrastructure,regional growth,1
+alignment,electoral competition,1
+alignment,grant allocation,1
+electoral competition,grant allocation,1
+intergovernmental grants,political economy,1
+intergovernmental grants,tactical redistribution,1
+political economy,tactical redistribution,1
+common pool,fiscal federalism,1
+common pool,insurance,1
+common pool,intergovernmental transfers,1
+common pool,risk sharing,1
+fiscal federalism,insurance,1
+fiscal federalism,risk sharing,1
+insurance,intergovernmental transfers,1
+insurance,risk sharing,1
+intergovernmental transfers,risk sharing,1
+fiscal federalism,interstate equalization,1
+intergovernmental transfers,interstate equalization,1
+causal effects,discontinuity analysis,1
+causal effects,fiscal federalism,1
+causal effects,grants,1
+causal effects,local government expenditure,1
+causal effects,local taxation,1
+discontinuity analysis,fiscal federalism,1
+discontinuity analysis,grants,1
+discontinuity analysis,local government expenditure,1
+discontinuity analysis,local taxation,1
+fiscal federalism,local government expenditure,1
+fiscal federalism,local taxation,1
+grants,local government expenditure,1
+grants,local taxation,1
+local government expenditure,local taxation,1
+asymmetric response,intergovernmental grants,1
+asymmetric response,local governments,1
+asymmetric response,local tax rates,1
+intergovernmental grants,local governments,1
+intergovernmental grants,local tax rates,1
+local governments,local tax rates,1
+flypaper effect,fungibility of aid,1
+flypaper effect,impact evaluation,1
+flypaper effect,rural roads,1
+flypaper effect,vietnam,1
+fungibility of aid,impact evaluation,1
+fungibility of aid,rural roads,1
+fungibility of aid,vietnam,1
+impact evaluation,rural roads,1
+impact evaluation,vietnam,1
+rural roads,vietnam,1
